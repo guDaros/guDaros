@@ -4,7 +4,7 @@
 - 👀 I’m interested to code a differents languages to improve my self.
 - 🌱 I’m currently learning node.js and c#, english.
 - 💞️ I’m looking to collaborate on a team that i can sure gain knowledge, then so i contribuite to the team
-- 📫 How to reach me: Send me an email at: gustavo.daros16@gmail.com, or even better, send a message at my LinkedIn: https://www.linkedin.com/in/gustavo-daros-843a48157/
+- 📫 How to reach me: Send me an email at: gustavo.daros16@gmail.com, or even better, send a message at my LinkedIn: https://www.linkedin.com/in/guDaros/
 
 <!---
 guDaros/guDaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
